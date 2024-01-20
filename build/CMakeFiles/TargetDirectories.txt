@@ -1,0 +1,3 @@
+/home/cowboygecko/Desktop/SiSiPaPa/Cefault++/build/CMakeFiles/cfltpp.dir
+/home/cowboygecko/Desktop/SiSiPaPa/Cefault++/build/CMakeFiles/edit_cache.dir
+/home/cowboygecko/Desktop/SiSiPaPa/Cefault++/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/cowboygecko/Desktop/SiSiPaPa/Cefault++/testproj/build/CMakeFiles/main.dir
+/home/cowboygecko/Desktop/SiSiPaPa/Cefault++/testproj/build/CMakeFiles/edit_cache.dir
+/home/cowboygecko/Desktop/SiSiPaPa/Cefault++/testproj/build/CMakeFiles/rebuild_cache.dir
